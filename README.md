@@ -2,8 +2,7 @@
 
 <p align="center">
 	<a href="https://github.com/Leone1-Hub">
-		<img src="https://github.com/Leone1-Hub/Leone1-Hub/blob/9c7ff36baeebcb145056bd5adcc4538a62c814ca/Fondillo.PNG" style="clip-path: inset(0 0 2cm 0);"/>
-	</a>
+		<img src="https://github.com/Leone1-Hub/Leone1-Hub/blob/173bdc85e130c8a67ab712ecadb72ac7937af28e/Fondillo.PNG"></a>	
 </p>
 
 <pre>
