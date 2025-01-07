@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center"> Hi there 👋, I'm Leonel</h1>
 
-<!--
-**Leone1-Hub/Leone1-Hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+	<a href="https://github.com/Bouaskaoun">
+		<img src="https://github.com/Leone1-Hub/Leone1-Hub/blob/9c7ff36baeebcb145056bd5adcc4538a62c814ca/Fondillo.PNG"/>
+	</a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<pre>
+💻 Estoy desarrollando mis habilidades como Desarrollador Frontend | Entusiasta de las nuevas tecnologías
+📚 Estudiando Ingenería de Software y en un constante aprendizaje
+📝 Tengo un gran interés en construir UI Frontend para diversas aplicaciones 
+🌱 Enfocado en aprender sobre las necesidades de los clientes y hacerles la vida más fácil
+🌟 Lenguajes principales: Javascript, Java
+🚩 Interesado en el desarrollo de aplicaciones Full Stack 
+</pre>
